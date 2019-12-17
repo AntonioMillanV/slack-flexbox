@@ -910,7 +910,8 @@ p, ul, li, i, span {
 
 	.header {
 		padding-top: 100px;
-		box-sizing: border-box
+		box-sizing: border-box;
+		border-bottom: 2px solid #E4E2E4;
 	}
 
 	header {
